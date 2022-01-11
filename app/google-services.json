@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1030036361391",
+    "firebase_url": "https://nature-collection-a11de-default-rtdb.firebaseio.com",
+    "project_id": "nature-collection-a11de",
+    "storage_bucket": "nature-collection-a11de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030036361391:android:80d9d5d31924e15219c45a",
+        "android_client_info": {
+          "package_name": "com.mogax.plant_collection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030036361391-b5u1cg2tla289dsejgol50ueup7djhse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgQ_TPWj0vtGe64aLRuTXG16mCd2CScgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030036361391-b5u1cg2tla289dsejgol50ueup7djhse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030036361391:android:49fd0ec2199801ce19c45a",
+        "android_client_info": {
+          "package_name": "fr.mogax.naturecollection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030036361391-b5u1cg2tla289dsejgol50ueup7djhse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgQ_TPWj0vtGe64aLRuTXG16mCd2CScgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030036361391-b5u1cg2tla289dsejgol50ueup7djhse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
